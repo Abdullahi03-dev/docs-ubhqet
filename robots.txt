@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-o9yc3h.goib138.site/sitemap.xml
